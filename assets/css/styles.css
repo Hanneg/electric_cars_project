@@ -293,6 +293,10 @@
     }
     
     /*All products*/
+    .all_products_mobile {
+        display: none;
+    }
+    
     .all_products {
         grid-area: all_products;
         display: grid;
